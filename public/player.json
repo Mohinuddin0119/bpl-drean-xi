@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Mahmudullah",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/xKjQDh70",
+      "category": "All-Rounder",
+      "price": 80000,
+      "hand": "Right-hand bat"
+    },
+    {
+      "name": "Mehidy Hasan Miraz",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/7tJQqJcF",
+      "category": "All-Rounder",
+      "price": 90000,
+      "hand": "Right-hand bat"
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/7tJQqJcF",
+      "category": "Wicketkeeper-Batsman",
+      "price": 95000,
+      "hand": "Right-hand bat"
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/20B6ZRbg",
+      "category": "Bowler",
+      "price": 85000,
+      "hand": "Left-arm fast-medium"
+    },
+    {
+      "name": "Mashrafe Mortaza",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/KjxGvFzs",
+      "category": "Bowler",
+      "price": 88000,
+      "hand": "Right-hand bat"
+    },
+    {
+      "name": "Sabbir Rahman",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/Df3j3wps",
+      "category": "Batsman",
+      "price": 72000,
+      "hand": "Right-hand bat"
+    },
+    {
+      "name": "Afif Hossain",
+      "country": "Bangladesh",
+      "img": "https://ibb.co.com/tFR3SYw",
+      "category": "All-Rounder",
+      "price": 78000,
+      "hand": "Left-hand bat"
+    }
+  ]
+  
